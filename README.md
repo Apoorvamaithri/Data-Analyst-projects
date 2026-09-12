@@ -73,5 +73,3 @@ The dashboard supports interactive filtering by:
 └── loan_portfolio_dashboard.png     # dashboard screenshot
 ```
 
----
-*Update the Tech Stack, File Structure, and Data Fields sections above to match your actual project setup.*
