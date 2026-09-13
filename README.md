@@ -69,7 +69,8 @@ The dashboard supports interactive filtering by:
 ```
 ├── README.md
 ├── loan_portfolio_dashboard.pbix   # main dashboard file
-├── data/Lending club data original data set.csv  # source data 
+├── Lending club data original data set.csv  # source data
+├──SQL Queries-Loan data portfolio.docx # sql queries and DAX measures formulaes
 └── loan_portfolio_dashboard.png     # dashboard screenshot
 ```
 
